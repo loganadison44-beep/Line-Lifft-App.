@@ -1,0 +1,12 @@
+{
+  "name": "line-lifft-app.",
+  "version": "1.0.0",
+  "description": "## Overview The Green Wxrp LIFF WebApp is a mobile-first, multilingual application tailored for a Thai herbal drink retailer. It integrates Google Sheets for data management, LIFF SDK for LINE-based authentication, and advanced analytics for operational insights. The app focuses on seamless sales, loyalty program management, and an optimized POS experience for both customers and staff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
